@@ -97,10 +97,10 @@ Custom PHP REST API with MySQL and automated Cron jobs:
 | `Cron: ranking.php` | Recalculates user investment rankings for Airdrop targeting |
 
 ### Infrastructure & Deploy
-![SiteGround](https://img.shields.io/badge/SiteGround-FF5000?style=flat&logo=siteground&logoColor=white)
+![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=flat&logo=namecheap&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)
 
-- Hosted on **SiteGround with cPanel**
+- Hosted on **Namecheap with cPanel**
 - **SSL** on main domain and API subdomain
 - **Cron jobs** configured for email campaign scheduling and ranking recalculation
 - **`.htaccess`** for SPA routing and API CORS configuration
