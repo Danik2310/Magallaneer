@@ -195,7 +195,7 @@ Used the free DexScreener API with `swr`'s `refreshInterval` for polling instead
 - MySQL database schema and query design
 - Automated email/CRM microservice with PHPMailer and Cron job scheduling
 - Airdrop ranking algorithm design and implementation
-- SiteGround server setup, SSL configuration, Cron job scheduling, and cPanel deployment
+- Namecheap server setup, SSL configuration, Cron job scheduling, and cPanel deployment
 - Domain and server security hardening
 
 ---
